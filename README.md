@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolaos Karamousalidis</h1>
-<h3 align="center">A passionate frontend developer from Greece</h3>
+<h3 align="center">A passionate UI/UX Designer from Greece</h3>
 
 - 🔭 I’m currently studying in the **University of York,CITY College**
 
